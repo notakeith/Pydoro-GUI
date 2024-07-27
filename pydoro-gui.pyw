@@ -19,7 +19,7 @@ colorfg_break = "#00BD68"
 colorfgbd_break = "#BDD2C9"
 colorbgbd_break = "#BDD2C9"
 
-ticksPerSecond = 2
+ticksPerSecond = 1000
 isTimerRuning = False
 timerTime = 25 * 60
 defaultSeconds = 1
