@@ -6,9 +6,8 @@ This repository contains a simple Pomodoro timer application built with Python a
 
 ## Installation
 
-1. Download the repository or clone
-2. Navigate to the project directory
-3. Sure you have the required dependencies or install it:
+1. Download the last version ```Pydoro-GUI``` from [Releases](https://github.com/notakeith/pydoro-gui/releases)
+2. Sure you have the required dependencies or install it:
     ```bash
     pip install tk
     pip install pygame
