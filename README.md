@@ -6,14 +6,8 @@ This repository contains a simple Pomodoro timer application built with Python a
 
 ## Installation
 
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/notakeith/pydoro-gui.git
-    ```
-2. Navigate to the project directory:
-    ```bash
-    cd pydoro-gui
-    ```
+1. Download the repository or clone
+2. Navigate to the project directory
 3. Sure you have the required dependencies or install it:
     ```bash
     pip install tk
@@ -22,11 +16,7 @@ This repository contains a simple Pomodoro timer application built with Python a
 
 ## Usage
 
-Run the application by double-click to ```pydoro-gui.pyw```
-
-## Contributing
-
-Contributions are welcome! Please fork this repository and submit pull requests with any improvements or new features.
+Run the application by double-click to ```main.pyw```. You also can create shortcut of ```main.pyw```
 
 ## License
 
