@@ -33,7 +33,3 @@ If you'd like to contribute to Pymodoro, please fork the repository and use a fe
 ## License
 
 Pymodoro is open-source software licensed under the [MIT license](LICENSE).
-
----
-
-Feel free to customize this README to better fit your project's specific details and any additional instructions or sections you might need!
